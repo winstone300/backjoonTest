@@ -1,0 +1,17 @@
+{
+  "lessonId": "1368",
+  "title": "물대기",
+  "languages": {
+    "java": {
+      "url": "https://baekjoon.song-queue-ssfay11.cloud/problems/1368"
+    }
+  },
+  "level": "Gold II",
+  "category": "그래프 이론, 최소 스패닝 트리",
+  "examples": [
+    {
+      "inputsText": "4\n5\n4\n4\n3\n0 2 2 2\n2 0 3 3\n2 3 0 4\n2 3 4 0\n",
+      "expectedText": "9\n"
+    }
+  ]
+}
