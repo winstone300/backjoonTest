@@ -1,0 +1,4 @@
+.DS_Store
+Thumbs.db
+.baekjoon-helper/problem-index.json
+**/.baekjoon-helper/generated/
